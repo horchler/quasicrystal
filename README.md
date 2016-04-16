@@ -8,21 +8,20 @@ quasicrystal
 
 [```quasicrystal```](https://github.com/horchler/quasicrystal/blob/master/quasicrystal.m) produces an AVI movie, animated GIF image, or PNG still image of a quasicrystal.  
     
-[```quasicrystaldemo(H)```](https://github.com/horchler/quasicrystal/blob/master/quasicrystaldemo.m) displays a quasicrystal animation.    
+[```quasicrystaldemo```](https://github.com/horchler/quasicrystal/blob/master/quasicrystaldemo.m) displays a quasicrystal animation.    
   
 Examples:  
 
-![bw01.gif](https://github.com/horchler/quasicrystal/blob/master/examples/bw01.gif)
-![bw02.gif](https://github.com/horchler/quasicrystal/blob/master/examples/bw02.gif)
-![bw03.gif](https://github.com/horchler/quasicrystal/blob/master/examples/bw03.gif)
-![bw04.gif](https://github.com/horchler/quasicrystal/blob/master/examples/bw04.gif)
-![bw05.gif](https://github.com/horchler/quasicrystal/blob/master/examples/bw05.gif)
-  
-![color06.gif](https://github.com/horchler/quasicrystal/blob/master/examples/color06.gif)
-![color07.gif](https://github.com/horchler/quasicrystal/blob/master/examples/color07.gif)
-![color08.gif](https://github.com/horchler/quasicrystal/blob/master/examples/color08.gif)
-![color09.gif](https://github.com/horchler/quasicrystal/blob/master/examples/color09.gif)
-![color10.gif](https://github.com/horchler/quasicrystal/blob/master/examples/color10.gif)
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw01.gif" width="128" height="128">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw02.gif" width="128" height="128">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw03.gif" width="128" height="128">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw04.gif" width="128" height="128">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw05.gif" width="128" height="128">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/color06.gif" width="128" height="128">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/color07.gif" width="128" height="128">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/color08.gif" width="128" height="128">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/color09.gif" width="128" height="128">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/color10.gif" width="128" height="128">
 &nbsp;  
 
 --------
