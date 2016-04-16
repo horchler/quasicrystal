@@ -12,16 +12,16 @@ quasicrystal
   
 Examples:  
 
-<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw01.gif" width="160" height="160">
-<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw02.gif" width="160" height="160">
-<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw03.gif" width="160" height="160">
-<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw04.gif" width="160" height="160">
-<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw05.gif" width="160" height="160">
-<img src="https://github.com/horchler/quasicrystal/blob/master/examples/color06.gif" width="160" height="160">
-<img src="https://github.com/horchler/quasicrystal/blob/master/examples/color07.gif" width="160" height="160">
-<img src="https://github.com/horchler/quasicrystal/blob/master/examples/color08.gif" width="160" height="160">
-<img src="https://github.com/horchler/quasicrystal/blob/master/examples/color09.gif" width="160" height="160">
-<img src="https://github.com/horchler/quasicrystal/blob/master/examples/color10.gif" width="160" height="160">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw01.gif" width="172" height="172">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw02.gif" width="172" height="172">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw03.gif" width="172" height="172">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw04.gif" width="172" height="172">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw05.gif" width="172" height="172">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/color06.gif" width="172" height="172">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/color07.gif" width="172" height="172">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/color08.gif" width="172" height="172">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/color09.gif" width="172" height="172">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/color10.gif" width="172" height="172">
 &nbsp;  
 
 --------
