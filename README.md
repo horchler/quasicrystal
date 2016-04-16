@@ -10,7 +10,7 @@ quasicrystal
     
 [```quasicrystaldemo```](https://github.com/horchler/quasicrystal/blob/master/quasicrystaldemo.m) displays a quasicrystal animation.    
   
-Examples:  
+Examples (click for full size):  
 
 <img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw01.gif" width="172" height="172">
 <img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw02.gif" width="172" height="172">
@@ -22,6 +22,11 @@ Examples:
 <img src="https://github.com/horchler/quasicrystal/blob/master/examples/color08.gif" width="172" height="172">
 <img src="https://github.com/horchler/quasicrystal/blob/master/examples/color09.gif" width="172" height="172">
 <img src="https://github.com/horchler/quasicrystal/blob/master/examples/color10.gif" width="172" height="172">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/scl32-ang7-gray-logpolar.gif" width="172" height="172">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/scl32-ang5-ijet-logpolar.gif" width="172" height="172">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/scl32-ang5-jet3-c5-logpolar.gif" width="172" height="172">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/scl32-ang7-jet-cartesian.gif" width="172" height="172">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/scl32-ang7-jet-logpolar.gif" width="172" height="172">
 &nbsp;  
 
 --------
