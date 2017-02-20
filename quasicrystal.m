@@ -51,7 +51,7 @@ function varargout=quasicrystal(varargin)
 %         	drawnow;
 %     	end
 %
-%   Andrew D. Horchler, adh9@case.edu, Created 11-10-11
+%   Andrew D. Horchler, horchler @ gmail . com, Created 11-10-11
 %   Revision: 1.8, 4-16-16
 
 %   More details and original inspiration from these sources:

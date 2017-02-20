@@ -17,7 +17,7 @@ function quasicrystaldemo(N,scale,angles,frames,useLogPolar)
 %
 %   See also QUASICRYSTAL
 %
-%   Andrew D. Horchler, adh9@case.edu, Created 11-15-11
+%   Andrew D. Horchler, horchler @ gmail . com, Created 11-15-11
 %   Revision: 1.1, 3-29-12
 
 %   More details and original inspiration from these sources:
