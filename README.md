@@ -1,8 +1,8 @@
 quasicrystal
 ========
-#####Generate movie, animated GIF, or image of a quasicrystal via sum of plane waves in Matlab.#####
-######Version 1.8, 4-16-16######
-#####Download Repository: [ZIP Archive](https://github.com/horchler/quasicrystal/archive/master.zip)#####
+##### Generate movie, animated GIF, or image of a quasicrystal via sum of plane waves in Matlab.
+###### Version 1.8, 4-16-16
+##### Download Repository: [ZIP Archive](https://github.com/horchler/quasicrystal/archive/master.zip)
 
 --------
 
