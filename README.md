@@ -12,10 +12,7 @@ quasicrystal
   
 Examples (click for full size):  
 
-<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw01.gif" width="172" height="172">
-<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw02.gif" width="172" height="172">
-<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw03.gif" width="172" height="172">
-<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw04.gif" width="172" height="172">
+<img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw01.gif" width="172" height="172"><img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw02.gif" width="172" height="172"><img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw03.gif" width="172" height="172"><img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw04.gif" width="172" height="172">
 <img src="https://github.com/horchler/quasicrystal/blob/master/examples/bw05.gif" width="172" height="172">
 <img src="https://github.com/horchler/quasicrystal/blob/master/examples/color06.gif" width="172" height="172">
 <img src="https://github.com/horchler/quasicrystal/blob/master/examples/color07.gif" width="172" height="172">
